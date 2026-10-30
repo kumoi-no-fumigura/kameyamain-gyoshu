@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kameyamain-gyoshu",
  "yomi": "かめやまいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "鎌倉後期",
+  "author": "亀山院",
+  "desc": "亀山院の御集。弘安百首をはじめ、短冊や九月尽の五首懐紙に書かれた詠などを収め、それぞれの書かれた形を注記している。"
+ },
  "editions": [
   {
    "pid": "945300",
